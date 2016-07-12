@@ -4,9 +4,11 @@ Note: The color of the item may vary slightly due to photography and your own co
 2.suitable for crane scale, mechanical conversion scale, hopper scale and other electronic weighing devices.S beam design,tension and/or compression loading possible,easy installation
 3.Connection mode: red: power supply +, black: power -, green: signal + white: signal -
 4.Max capacities:200Kg
-Input impedance: 365 ± 5 ohm
-Output impedance: 350 ± 3ohm
+Input impedance: 365 Â± 5 ohm
+Output impedance: 350 Â± 3ohm
 Insulation resistance: More than 2000megohm
 Size:2.95x1.97 inch
 Weight:664g
-Package Included: 1x Weighting Sensor  
+Package Included: 1x Weighting Sensor
+
+http://ru.aliexpress.com/item/Anti-corrosion-S-Type-Beam-Load-Cell-Scale-Sensor-Weighting-Sensor-200kg/2048499918.html?spm=2114.10010208.1000022.1.bb0efI&isOrig=true#extend
